@@ -1,8 +1,3 @@
-<!-- ============================================================
-  TODO antes de publicar (busca "TODO" y reemplaza):
-  - Links de repos de proyectos, YouTube, TikTok, portafolio
-  - Agrega métricas REALES (descargas, usuarios, estrellas) donde dice TODO
-  ============================================================ -->
 
 <div align="center">
 
@@ -18,9 +13,13 @@
 ![Followers](https://img.shields.io/github/followers/ruvalcaba18?style=for-the-badge&logo=github&color=7c3aed)
 ![Location](https://img.shields.io/badge/Ensenada%2C%20MX-open%20to%20remote-24243e?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jael-ruvalcaba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jael-ruvalcaba)
 [![Email](https://img.shields.io/badge/Email-Hire%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jael.ruvalcaba@uabc.edu.mx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20soon-7c3aed?style=for-the-badge&logo=safari&logoColor=white)](#)
+
+[![YouTube](https://img.shields.io/badge/YouTube-TheCodingKid18-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheCodingKid18)
+[![TikTok](https://img.shields.io/badge/TikTok-@codingkid18-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codingkid18?lang=es)
+[![Bilibili](https://img.shields.io/badge/Bilibili-CodingKid18-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/mg7LUKf)
 
 </div>
 
@@ -110,7 +109,7 @@ Native AI chat client with real-time **streaming responses**, clean architecture
 - Scalable message handling
 - Modular, testable layers
 
-[**View repo →**](https://github.com/ruvalcaba18) 
+[**View repo →**](https://github.com/ruvalcaba18) <!-- TODO: link directo -->
 
 </td>
 <td width="33%" valign="top">
@@ -192,8 +191,9 @@ flowchart LR
 
 I teach what I build: SwiftUI architecture, backend engineering, algorithms, system design, security and AI integrations.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#) <!-- TODO: link YouTube -->
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](#) <!-- TODO: link TikTok -->
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheCodingKid18)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codingkid18?lang=es)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Follow-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/mg7LUKf)
 
 ---
 
@@ -208,12 +208,10 @@ I'm open to **full-time roles, freelance projects and collaborations** in:
 
 <div align="center">
 
-### 📬 **[jael.ruvalcaba@uabc.edu.mx](mailto:jael.ruvalcaba@uabc.edu.mx)** • **[LinkedIn](https://www.linkedin.com/in/jael-ruvalcaba/)**
+### 📬 **[jael.ruvalcaba@uabc.edu.mx](mailto:jael.ruvalcaba@uabc.edu.mx)** • **[LinkedIn](https://www.linkedin.com/in/jael-ruvalcaba)**
 
 ⭐ *If you like what you see, follow me or open an issue. I reply fast.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-
-⭐ If you like my projects feel free to **follow or collaborate**
