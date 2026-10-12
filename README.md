@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jael%20Ruvalcaba&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20%2F%20macOS%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Security-Minded&descAlignY=58&descSize=18" width="100%"/>
@@ -13,13 +12,13 @@
 ![Followers](https://img.shields.io/github/followers/ruvalcaba18?style=for-the-badge&logo=github&color=7c3aed)
 ![Location](https://img.shields.io/badge/Ensenada%2C%20MX-open%20to%20remote-24243e?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jael-ruvalcaba)
-[![Email](https://img.shields.io/badge/Email-Hire%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jael.ruvalcaba@uabc.edu.mx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20soon-7c3aed?style=for-the-badge&logo=safari&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/jael-ruvalcaba)
+[![Email](https://img.shields.io/badge/Email-HIRE%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:jael.ruvalcaba@uabc.edu.mx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-COMING%20SOON-7c3aed?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)](#)
 
-[![YouTube](https://img.shields.io/badge/YouTube-TheCodingKid18-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheCodingKid18)
-[![TikTok](https://img.shields.io/badge/TikTok-@codingkid18-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codingkid18?lang=es)
-[![Bilibili](https://img.shields.io/badge/Bilibili-CodingKid18-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/mg7LUKf)
+[![YouTube](https://img.shields.io/badge/%E2%96%B6%20YouTube-SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://www.youtube.com/@TheCodingKid18)
+[![TikTok](https://img.shields.io/badge/TikTok-FOLLOW-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@codingkid18?lang=es)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FOLLOW-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=1a1a1a)](https://b23.tv/mg7LUKf)
 
 </div>
 
@@ -34,7 +33,7 @@
 | 🎯 **Primary role** | iOS / macOS Software Engineer |
 | 🧩 **Also** | Android • Backend • Cybersecurity • Systems programming (C / C++ / Rust) |
 | 🌎 **Based in** | Ensenada, Baja California, México (open to remote / relocation) |
-| 🗣️ **Languages** | Spanish (native) • English (professional) <!-- TODO: ajusta nivel --> |
+| 🗣️ **Languages** | Spanish (native) • English (professional) |
 | 📬 **Status** | **Open to full-time, freelance and collaboration** |
 
 ---
@@ -109,8 +108,7 @@ Native AI chat client with real-time **streaming responses**, clean architecture
 - Scalable message handling
 - Modular, testable layers
 
-[**View repo →**](https://github.com/ruvalcaba18) <!-- TODO: link directo -->
-
+[**View repo →**](https://github.com/ruvalcaba18)
 </td>
 <td width="33%" valign="top">
 
@@ -123,8 +121,7 @@ High-performance REST backend built with a clean service architecture, ready for
 - Modular service design
 - Containerized & CI-ready
 
-[**View repo →**](https://github.com/ruvalcaba18) <!-- TODO: link directo -->
-
+[**View repo →**](https://github.com/ruvalcaba18)
 </td>
 <td width="33%" valign="top">
 
@@ -137,8 +134,7 @@ Implementations inspired by *Cracking the Coding Interview* and system design pr
 - Complexity analysis
 - Interview-grade solutions
 
-[**View repo →**](https://github.com/ruvalcaba18) <!-- TODO: link directo -->
-
+[**View repo →**](https://github.com/ruvalcaba18)
 </td>
 </tr>
 </table>
@@ -174,14 +170,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ruvalcaba18&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruvalcaba18&show_icons=true&theme=radical&hide_border=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvalcaba18&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruvalcaba18&theme=radical&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=ruvalcaba18&theme=radical&hide_border=true" height="170" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruvalcaba18&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ruvalcaba18&theme=radical&no-frame=true&row=1&margin-w=10"/>
+<img src="https://ghchart.rshah.org/7c3aed/ruvalcaba18" width="95%" alt="Contribution chart"/>
 
 </div>
 
@@ -191,9 +185,18 @@ flowchart LR
 
 I teach what I build: SwiftUI architecture, backend engineering, algorithms, system design, security and AI integrations.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheCodingKid18)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codingkid18?lang=es)
-[![Bilibili](https://img.shields.io/badge/Bilibili-Follow-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/mg7LUKf)
+<div align="center">
+
+### 🔴 Watch · 🎵 Follow · 💙 Learn with me
+
+<a href="https://www.youtube.com/@TheCodingKid18"><img src="https://img.shields.io/badge/%E2%96%B6%20YouTube-SUBSCRIBE%20NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a" height="48" alt="YouTube"/></a>
+<a href="https://www.tiktok.com/@codingkid18?lang=es"><img src="https://img.shields.io/badge/TikTok-FOLLOW%20ME-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" height="48" alt="TikTok"/></a>
+<a href="https://b23.tv/mg7LUKf"><img src="https://img.shields.io/badge/Bilibili-FOLLOW%20ME-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=1a1a1a" height="48" alt="Bilibili"/></a>
+<a href="https://www.linkedin.com/in/jael-ruvalcaba"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" height="48" alt="LinkedIn"/></a>
+
+<sub>New videos on SwiftUI, backend, security & system design</sub>
+
+</div>
 
 ---
 
